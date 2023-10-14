@@ -5,7 +5,7 @@
 
 ### Programming language
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,bash)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,ps)](https://skillicons.dev)

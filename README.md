@@ -17,6 +17,6 @@
 
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTyzenDev&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xTyzenDev)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs]<br>
 
 <br/>
